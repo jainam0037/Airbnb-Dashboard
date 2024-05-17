@@ -52,3 +52,6 @@ The dashboard offers insights into the distribution of Airbnb listings across di
 
 ## Conclusion:
 This Tableau dashboard provides valuable insights into the Airbnb market in New York City, helping users understand pricing trends, booking patterns, and popular hosts. By leveraging interactive visualizations and filtering options, users can gain actionable insights to inform their Airbnb rental decisions or market analysis strategies.
+
+
+[Link to Tableau Dashboard](https://public.tableau.com/views/Airbnb_17136462421580/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
