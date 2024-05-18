@@ -53,6 +53,14 @@ The dashboard offers insights into the distribution of Airbnb listings across di
 - Total Bookings: Represents the total number of bookings made within the specified time frame and location parameters.
 - Total Reviews: Indicates the cumulative number of reviews submitted by guests for Airbnb listings.
 
+
+## How to Use
+
+1. **Install Tableau:** Ensure you have Tableau Desktop or Tableau Public installed.
+2. **Open Dashboards:** Download and open the Tableau workbooks from this repository.
+3. **Interact with Dashboards:** Use filters and interactive features to explore the data.
+4. **Customize:** Modify dashboards to fit specific needs or explore additional questions.
+
 ## Conclusion:
 This Tableau dashboard provides valuable insights into the Airbnb market in New York City, helping users understand pricing trends, booking patterns, and popular hosts. By leveraging interactive visualizations and filtering options, users can gain actionable insights to inform their Airbnb rental decisions or market analysis strategies.
 
