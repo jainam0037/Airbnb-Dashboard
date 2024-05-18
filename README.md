@@ -6,6 +6,9 @@ This Tableau dashboard provides an interactive visualization of Airbnb data in N
 ## Overview:
 The dashboard offers insights into the distribution of Airbnb listings across different neighborhoods, the average price by neighborhood and room type, booking trends over time, top hosts by total reviews, and more. Users can filter the data based on neighborhood group, room type, and other parameters to gain a deeper understanding of the Airbnb market in New York City.
 
+
+![Dashboard Screenshot](https://github.com/jainam0037/Airbnb-Dashboard/blob/main/image.png?raw=true)
+
 ## Features:
 - Interactive map visualization showing average prices in neighborhoods by room type.
 - Stacked bar chart displaying total bookings by month, neighborhood group, and room type.
@@ -53,7 +56,6 @@ The dashboard offers insights into the distribution of Airbnb listings across di
 ## Conclusion:
 This Tableau dashboard provides valuable insights into the Airbnb market in New York City, helping users understand pricing trends, booking patterns, and popular hosts. By leveraging interactive visualizations and filtering options, users can gain actionable insights to inform their Airbnb rental decisions or market analysis strategies.
 
-![Dashboard Screenshot](https://github.com/jainam0037/Airbnb-Dashboard/blob/main/image.png?raw=true)
 
 
 [Link to Tableau Dashboard](https://public.tableau.com/views/Airbnb_17136462421580/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
